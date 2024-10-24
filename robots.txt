@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://tiqawavu.github.io/sitemap/sitemap_index.tiqawavu
+Sitemap: https://tiqawavu.github.io/pEg/sitemap_index.tiqawavu
+Sitemap: https://tiqawavu.github.io/KqO/sitemap_index.tiqawavu
+Sitemap: https://tiqawavu.github.io/Sub/sitemap_index.tiqawavu
+Sitemap: https://tiqawavu.github.io/ptD/sitemap_index.tiqawavu
+Sitemap: https://tiqawavu.github.io/QOm/sitemap_index.tiqawavu
+Sitemap: https://tiqawavu.github.io/KZd/sitemap_index.tiqawavu
+Sitemap: https://tiqawavu.github.io/jsd/sitemap_index.tiqawavu
+Sitemap: https://tiqawavu.github.io/BQT/sitemap_index.tiqawavu
+Sitemap: https://tiqawavu.github.io/xvh/sitemap_index.tiqawavu
+Sitemap: https://tiqawavu.github.io/BOm/sitemap_index.tiqawavu
+Sitemap: https://tiqawavu.github.io/LOH/sitemap_index.tiqawavu
+Sitemap: https://tiqawavu.github.io/msj/sitemap_index.tiqawavu
+Sitemap: https://tiqawavu.github.io/jhq/sitemap_index.tiqawavu
+Sitemap: https://tiqawavu.github.io/VmL/sitemap_index.tiqawavu
+Sitemap: https://tiqawavu.github.io/JQi/sitemap_index.tiqawavu
+Sitemap: https://tiqawavu.github.io/SsJ/sitemap_index.tiqawavu
+Sitemap: https://tiqawavu.github.io/chb/sitemap_index.tiqawavu
+Sitemap: https://tiqawavu.github.io/bLh/sitemap_index.tiqawavu
+Sitemap: https://tiqawavu.github.io/BqO/sitemap_index.tiqawavu
+Sitemap: https://tiqawavu.github.io/WVw/sitemap_index.tiqawavu
